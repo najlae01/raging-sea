@@ -1,4 +1,4 @@
-# Three.js Journey
+# Raging Sea
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
